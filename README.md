@@ -1,4 +1,4 @@
-# StockSegmentation
+# Stock Segmentation
 
 Project for the University of Texas - Data Science and Business Analytics certification course
 
